@@ -1,18 +1,14 @@
-# flutter_quiz_app
+# flutter_Quiz_app
+- A Simple flutter app that demonstrates the quiz interface.This app improves the flutter development skills
 
-A new Flutter project.
+## Built with
+- Flutter framework
+- Dart Language
+- Android Studio
 
-## Getting Started
+## Features 
+- Interactive interface
+- A column which tells the question answer is right or wrong
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutter_quiz_app" 
-"# flutter_quiz_app" 
+## App preview
+<img src="assests/preview.gif">

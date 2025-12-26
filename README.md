@@ -11,4 +11,4 @@
 - A column which tells the question answer is right or wrong
 
 ## App preview
-<img src="assests/preview.gif">
+<img src="lib/preview.gif">
